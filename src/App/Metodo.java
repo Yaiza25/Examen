@@ -1,5 +1,3 @@
-package App;
-
 public class Metodo {
 
     public String metodo1 (int num) {
@@ -10,7 +8,7 @@ public class Metodo {
 
         } else if (num % 5 == 0) {
 
-            return "book";
+            return "Book";
 
         } else if (num % 15 == 0) {
 
